@@ -14,6 +14,6 @@ a:visited{
 
 h1{
     color:white;
-    background: linear-gradient( red, orange, yellow, green, blue, indigo);
+    background: linear-gradient(deg90, red, orange, yellow, green, blue, indigo);
     border: 20px ridge greenyellow;
 }
