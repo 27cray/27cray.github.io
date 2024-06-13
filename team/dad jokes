@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dad Jokes</title>
+    <style>
+        body{overflow-y: scroll; background-image: url();} 
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dad Jokes</h1>
+    </header>
+    <nav>
+        <p><a href="index.html">Jokes</a></p>
+        <p><a href="pickuplines.html">Pickuplines</a></p>
+        <p><a href="dad jokes">Dad jokes</a><p>
+        <p><a href="History of Jokes">History</a></p>
+        <p><a href="about the team.html">The Team</a></p>
+    </nav>
+</body>
+</html>
